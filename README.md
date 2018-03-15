@@ -1,3 +1,3 @@
 # Network-Administration
-Some homework and slide of the class in NCTU
+Some homeworks and slide of the class in NCTU
 
